@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="16" viewBox="0 0 100 16">
+  <g id="Group_34944" data-name="Group 34944" transform="translate(-910 -2128)">
+    <rect id="Rectangle_9_copy_5" data-name="Rectangle 9 copy 5" width="100" height="2" transform="translate(910 2135)" fill="#cecece"/>
+    <g id="Ellipse_2_copy_2" data-name="Ellipse 2 copy 2" transform="translate(-118 66)">
+      <g id="Ellipse_2_copy_2-2" data-name="Ellipse 2 copy 2" transform="translate(1072 2064)" fill="#9b69a8" stroke="#f5f5f5" stroke-width="3">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="4.5" fill="none"/>
+      </g>
+      <g id="Stroke_Effect" data-name="Stroke Effect" fill="none" stroke-linejoin="round">
+        <path d="M1078,2064a6,6,0,1,1-6,6A6,6,0,0,1,1078,2064Z" stroke="none"/>
+        <path d="M 1078 2064 C 1074.686279296875 2064 1072 2066.686279296875 1072 2070 C 1072 2073.313720703125 1074.686279296875 2076 1078 2076 C 1081.313720703125 2076 1084 2073.313720703125 1084 2070 C 1084 2066.686279296875 1081.313720703125 2064 1078 2064 M 1078 2062 C 1082.411254882812 2062 1086 2065.5888671875 1086 2070 C 1086 2074.4111328125 1082.411254882812 2078 1078 2078 C 1073.588745117188 2078 1070 2074.4111328125 1070 2070 C 1070 2065.5888671875 1073.588745117188 2062 1078 2062 Z" stroke="none" fill="#9b69a8"/>
+      </g>
+    </g>
+  </g>
+</svg>
